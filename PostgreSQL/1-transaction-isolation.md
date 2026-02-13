@@ -1,7 +1,5 @@
 # ISOLATION LEVELS
 
----
-
 ## READ COMMITED
 
 The **partial transaction isolation** provided by Read Committed mode is adequate for many applications, and this mode
@@ -68,8 +66,6 @@ considered:
   index scans, balancing rollbacks with query time.
 
 # PHENOMENAS REFERENCE
-
----
 
 The phenomena which are prohibited at various levels are:
 
