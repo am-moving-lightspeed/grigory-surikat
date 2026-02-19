@@ -1,0 +1,4948 @@
+{
+  "type": "unidraw",
+  "version": 1,
+  "source": "https://whiteboard.t-tech.team",
+  "elements": [
+    {
+      "id": "h7e2B5zTIs7wWNt7p6WzM",
+      "position": {
+        "x": 200,
+        "y": -138
+      },
+      "size": {
+        "width": 607,
+        "height": 316
+      },
+      "version": 261,
+      "versionNonce": 275361733,
+      "createdAt": 1769180713107,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 1,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "frame",
+      "schema": 2,
+      "text": "<p>Frame</p>",
+      "isExposed": true,
+      "children": [],
+      "style": {
+        "tc": "#CCCCCC",
+        "tfs": 13,
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "ta": "s",
+        "tva": "s",
+        "ss": "s",
+        "fc": "#ffffff",
+        "fs": "s",
+        "sc": "#CCCCCC",
+        "sw": 2
+      }
+    },
+    {
+      "id": "HCjP0Q4ouFibMm7tbBFvN",
+      "position": {
+        "x": 443.2295660976423,
+        "y": -123.52435114667671
+      },
+      "size": {
+        "width": 79,
+        "height": 22
+      },
+      "version": 121,
+      "versionNonce": 990397803,
+      "createdAt": 1769180716912,
+      "updatedAt": 1771516621224,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 2,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>Легенда</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "NaQz8svql7zY4J4an8xsU",
+      "position": {
+        "x": 324.2840228833941,
+        "y": -44.96024736824735
+      },
+      "size": {
+        "width": 113,
+        "height": 22
+      },
+      "version": 331,
+      "versionNonce": 898199333,
+      "createdAt": 1769180777630,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 4,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>ассоциация</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "8SbqSSCuJGjYHS4X9vehS",
+      "position": {
+        "x": 324.28402269681646,
+        "y": -5.016687772352613
+      },
+      "size": {
+        "width": 135,
+        "height": 22
+      },
+      "version": 392,
+      "versionNonce": 1432633771,
+      "createdAt": 1769180791639,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 6,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>наследование</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "GTmgIzt_mNqVp9urbuVMl",
+      "position": {
+        "x": 324.28402302636175,
+        "y": 36.37690489571416
+      },
+      "size": {
+        "width": 112,
+        "height": 22
+      },
+      "version": 433,
+      "versionNonce": 895950955,
+      "createdAt": 1769180813031,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 8,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>реализация</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "-pYgL7f8sS0oJtHy8prPl",
+      "position": {
+        "x": 323.941777924994,
+        "y": 76.77049809961774
+      },
+      "size": {
+        "width": 124,
+        "height": 22
+      },
+      "version": 141,
+      "versionNonce": 1396327045,
+      "createdAt": 1769180830513,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 10,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>зависимость</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "5il9r5rgvGr6Sw4E68Xsf",
+      "position": {
+        "x": 524.0000002268864,
+        "y": -55.855651250459104
+      },
+      "size": {
+        "width": 48.999999999999986,
+        "height": 48
+      },
+      "version": 389,
+      "versionNonce": 1580837349,
+      "createdAt": 1769180838206,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 11,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p></p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "tsjtJ9HqF_Pj2fnt0CpmH",
+      "position": {
+        "x": 591.778983069113,
+        "y": -43.26082515653583
+      },
+      "size": {
+        "width": 106,
+        "height": 22
+      },
+      "version": 180,
+      "versionNonce": 2063209195,
+      "createdAt": 1769180851501,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 12,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>интерфейс</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "fwZdypfXoClZx_lXSX8rl",
+      "position": {
+        "x": 524.3128212153078,
+        "y": 25.726639849665073
+      },
+      "size": {
+        "width": 48.999999999999986,
+        "height": 48
+      },
+      "version": 248,
+      "versionNonce": 1002214443,
+      "createdAt": 1769180856832,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 13,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p></p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "da"
+      }
+    },
+    {
+      "id": "EY-l5UHTt2mXM5x8FjlHA",
+      "position": {
+        "x": 592.1708570291738,
+        "y": 36.431607476179686
+      },
+      "size": {
+        "width": 181,
+        "height": 22
+      },
+      "version": 402,
+      "versionNonce": 1469392197,
+      "createdAt": 1769180861642,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 14,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>абстрактный класс</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "KoOOzxsDWzzMh3pEol6no",
+      "position": {
+        "x": 524.9377919045853,
+        "y": 107.30893003045297
+      },
+      "size": {
+        "width": 48.999999999999986,
+        "height": 48
+      },
+      "version": 206,
+      "versionNonce": 1940815243,
+      "createdAt": 1769180883924,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 15,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p></p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "tmkBxZe4oWaFOK2zPOKP_",
+      "position": {
+        "x": 591.6016607169371,
+        "y": 120.12404058729854
+      },
+      "size": {
+        "width": 54,
+        "height": 22
+      },
+      "version": 832,
+      "versionNonce": 1118450853,
+      "createdAt": 1769180890693,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 16,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>класс</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "GXO31WkeidFHwyVCg1hrT",
+      "position": {
+        "x": 1029.1557891112948,
+        "y": 42.14708406298743
+      },
+      "size": {
+        "width": 360.8442107146165,
+        "height": 109.85291593701258
+      },
+      "version": 956,
+      "versionNonce": 970192197,
+      "createdAt": 1771516628854,
+      "updatedAt": 1771524045700,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 17,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobLauncher</strong></p><p></p><p>Интерфейс для управления джобами</p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "UYoKI_E5N3iW3T0-Ys7lB",
+      "position": {
+        "x": 1029.2088417926964,
+        "y": 203.9133774773121
+      },
+      "size": {
+        "width": 360.8401829996057,
+        "height": 111.53519150278791
+      },
+      "version": 520,
+      "versionNonce": 55362603,
+      "createdAt": 1771516708255,
+      "updatedAt": 1771524057815,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 18,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>TaskExecutorJobLauncher</strong></p><p></p><p>Основная реализация <strong>JobLauncher</strong>, базирующаяся на <strong>TaskExecutor</strong></p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "84UHAditsl0m81yvd-ZoW",
+      "position": {
+        "x": 1209.577894468603,
+        "y": 152
+      },
+      "size": {
+        "width": 0.05103882389607861,
+        "height": 51.91337747731211
+      },
+      "version": 539,
+      "versionNonce": 441209131,
+      "createdAt": 1771516769893,
+      "updatedAt": 1771521342466,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 19,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "GXO31WkeidFHwyVCg1hrT",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1209.577894468603,
+            "y": 152
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "UYoKI_E5N3iW3T0-Ys7lB",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 1209.6289332924991,
+            "y": 203.9133774773121
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "vKlgiIUCVswzh0XHmG2bR",
+      "position": {
+        "x": 1437.6067298525443,
+        "y": 18.951847485389262
+      },
+      "size": {
+        "width": 383.5193351418453,
+        "height": 133.2180458501649
+      },
+      "version": 472,
+      "versionNonce": 1176908427,
+      "createdAt": 1771516855253,
+      "updatedAt": 1771524110726,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 20,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobParameters</strong></p><p></p><p>Обёртка над парами ключ-значение. Представляет набор параметров, с которыми может запуститься джоба.</p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "PJqUcUoD3HhjhGAx_XwSj",
+      "position": {
+        "x": 1438.0000002472102,
+        "y": 187.59967028504332
+      },
+      "size": {
+        "width": 382.99999999999994,
+        "height": 164
+      },
+      "version": 514,
+      "versionNonce": 938551301,
+      "createdAt": 1771517109128,
+      "updatedAt": 1771524067013,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 21,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>Job</strong></p><p></p><p>Интерфейс, описывающий джобу. Абстракция, представляющая собой конфигурацию процесса обработки данных.</p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "FxwA8tVg_oYxp9_BmaYuu",
+      "position": {
+        "x": 1438.2174920464493,
+        "y": 420.08086114392336
+      },
+      "size": {
+        "width": 382.7825080520994,
+        "height": 133.2180458501649
+      },
+      "version": 717,
+      "versionNonce": 1494812363,
+      "createdAt": 1771517146156,
+      "updatedAt": 1771524069381,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 22,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobInstance</strong></p><p></p><p>Представляет собой уникально идентифицируемую джобу c её параметрами</p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "fiwBZbSGnLwKvjh9P7ueW",
+      "position": {
+        "x": 1629.5000002472102,
+        "y": 351.5996702850433
+      },
+      "size": {
+        "width": 0.10874582528867904,
+        "height": 68.48119085888004
+      },
+      "version": 71,
+      "versionNonce": 1640796901,
+      "createdAt": 1771517509940,
+      "updatedAt": 1771519332495,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 23,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "PJqUcUoD3HhjhGAx_XwSj",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1629.5000002472102,
+            "y": 351.5996702850433
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "FxwA8tVg_oYxp9_BmaYuu",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 1629.608746072499,
+            "y": 420.08086114392336
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      },
+      "captions": [
+        {
+          "text": "<p>JobInstance = Job + JobParameters</p>",
+          "relativePosition": 0.5131722459428996,
+          "relativeOffset": 0.5,
+          "style": {
+            "tc": "#3A3A3A",
+            "tfs": 20,
+            "tff": "Neue Haas Unica, Segoe UI Emoji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0RFD-NfiNoGfWnYJqFe65",
+      "position": {
+        "x": 324.2840223032934,
+        "y": 117.71405689470775
+      },
+      "size": {
+        "width": 164,
+        "height": 22
+      },
+      "version": 236,
+      "versionNonce": 1181013067,
+      "createdAt": 1771517556883,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 25,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>логическая связь</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "eMAWJ8NwK8D-R4sUWZSeu",
+      "position": {
+        "x": 229.81253072898264,
+        "y": -31.88086979300607
+      },
+      "size": {
+        "width": 86.6589611330501,
+        "height": 0
+      },
+      "version": 105,
+      "versionNonce": 1209916171,
+      "createdAt": 1771518112161,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 34,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 229.81253072898264,
+            "y": -31.88086979300607
+          },
+          "absolutePosition": {
+            "x": 229.81253072898264,
+            "y": -31.88086979300607
+          }
+        },
+        "end": {
+          "position": {
+            "x": 316.47149186203274,
+            "y": -31.88086979300607
+          },
+          "absolutePosition": {
+            "x": 316.47149186203274,
+            "y": -31.88086979300607
+          }
+        }
+      }
+    },
+    {
+      "id": "audAVCg5kZma0mw4qRlMs",
+      "position": {
+        "x": 229.81253072898264,
+        "y": 8.916505869298508
+      },
+      "size": {
+        "width": 86.6589611330501,
+        "height": 0
+      },
+      "version": 105,
+      "versionNonce": 1886301995,
+      "createdAt": 1771518112164,
+      "updatedAt": 1771518323296,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 35,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 229.81253072898264,
+            "y": 8.916505869298508
+          },
+          "absolutePosition": {
+            "x": 229.81253072898264,
+            "y": 8.916505869298508
+          }
+        },
+        "end": {
+          "position": {
+            "x": 316.47149186203274,
+            "y": 8.916505869298508
+          },
+          "absolutePosition": {
+            "x": 316.47149186203274,
+            "y": 8.916505869298508
+          }
+        }
+      }
+    },
+    {
+      "id": "vDg_-sGqzHLpzFYrmRSNa",
+      "position": {
+        "x": 229.81253072898264,
+        "y": 49.71388219159066
+      },
+      "size": {
+        "width": 86.6589611330501,
+        "height": 0
+      },
+      "version": 105,
+      "versionNonce": 376925445,
+      "createdAt": 1771518112165,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 36,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 229.81253072898264,
+            "y": 49.71388219159066
+          },
+          "absolutePosition": {
+            "x": 229.81253072898264,
+            "y": 49.71388219159066
+          }
+        },
+        "end": {
+          "position": {
+            "x": 316.47149186203274,
+            "y": 49.71388219159066
+          },
+          "absolutePosition": {
+            "x": 316.47149186203274,
+            "y": 49.71388219159066
+          }
+        }
+      }
+    },
+    {
+      "id": "AHWsWUHK_eABe57Yx0CZD",
+      "position": {
+        "x": 229.81253072898264,
+        "y": 90.51125761539369
+      },
+      "size": {
+        "width": 86.6589611330501,
+        "height": 0
+      },
+      "version": 105,
+      "versionNonce": 1086689739,
+      "createdAt": 1771518112166,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 37,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 229.81253072898264,
+            "y": 90.51125761539369
+          },
+          "absolutePosition": {
+            "x": 229.81253072898264,
+            "y": 90.51125761539369
+          }
+        },
+        "end": {
+          "position": {
+            "x": 316.47149186203274,
+            "y": 90.51125761539369
+          },
+          "absolutePosition": {
+            "x": 316.47149186203274,
+            "y": 90.51125761539369
+          }
+        }
+      }
+    },
+    {
+      "id": "YtFZRyaVNwEv-9ieLdgHM",
+      "position": {
+        "x": 229.81253072898264,
+        "y": 131.30863399326844
+      },
+      "size": {
+        "width": 86.6589611330501,
+        "height": 0
+      },
+      "version": 105,
+      "versionNonce": 1164805221,
+      "createdAt": 1771518112167,
+      "updatedAt": 1771518323297,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 38,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": true,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 229.81253072898264,
+            "y": 131.30863399326844
+          },
+          "absolutePosition": {
+            "x": 229.81253072898264,
+            "y": 131.30863399326844
+          }
+        },
+        "end": {
+          "position": {
+            "x": 316.47149186203274,
+            "y": 131.30863399326844
+          },
+          "absolutePosition": {
+            "x": 316.47149186203274,
+            "y": 131.30863399326844
+          }
+        }
+      }
+    },
+    {
+      "id": "Ze0pP37tbuDD2gwY6THqO",
+      "position": {
+        "x": 1427.190609462508,
+        "y": 605.8530854957042
+      },
+      "size": {
+        "width": 405.28796244217847,
+        "height": 159.4895328560811
+      },
+      "version": 515,
+      "versionNonce": 637001573,
+      "createdAt": 1771519375064,
+      "updatedAt": 1771524071749,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 39,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobExecution</strong></p><p></p><p>Представляет собой данные о выполнении <strong>JobInstance</strong>. <strong>JobInstance</strong> может выполняться несколько раз и каждый раз это будет новый <em>execution</em>.</p>",
+      "seed": 1575228082,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "KuO6c7KCDjhtCg8bJK2Ul",
+      "position": {
+        "x": 1629.608746072499,
+        "y": 553.2989069940883
+      },
+      "size": {
+        "width": 0.2258446110984096,
+        "height": 52.55417850161598
+      },
+      "version": 41,
+      "versionNonce": 1139037061,
+      "createdAt": 1771519473233,
+      "updatedAt": 1771519919728,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 40,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 0,
+        "lt": "a",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "FxwA8tVg_oYxp9_BmaYuu",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1629.608746072499,
+            "y": 553.2989069940883
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "Ze0pP37tbuDD2gwY6THqO",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 1629.8345906835973,
+            "y": 605.8530854957042
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "EHU0LNFo_3O74ZhxCErEB",
+      "position": {
+        "x": 1067.6008296618977,
+        "y": 315.44856898010005
+      },
+      "size": {
+        "width": 359.58977980061036,
+        "height": 370.1492829436447
+      },
+      "version": 421,
+      "versionNonce": 1708978405,
+      "createdAt": 1771519558110,
+      "updatedAt": 1771520521295,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 41,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "UYoKI_E5N3iW3T0-Ys7lB",
+          "position": {
+            "x": 0.10639609909865078,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1067.6008296618977,
+            "y": 315.44856898010005
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "Ze0pP37tbuDD2gwY6THqO",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 1427.190609462508,
+            "y": 685.5978519237448
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      },
+      "captions": [
+        {
+          "text": "<p>2. Создаёт перед</p><p>выполнением</p>",
+          "relativePosition": 0.5058151567059613,
+          "relativeOffset": 0.5,
+          "style": {
+            "tc": "#3A3A3A",
+            "tfs": 20,
+            "tff": "Neue Haas Unica, Segoe UI Emoji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "G1qSn-XPMFbXApR-fiA2H",
+      "position": {
+        "x": 1209.6289332924991,
+        "y": 315.44856898010005
+      },
+      "size": {
+        "width": 241.6217986360939,
+        "height": 65.18501399813408
+      },
+      "version": 412,
+      "versionNonce": 1832205125,
+      "createdAt": 1771519601834,
+      "updatedAt": 1771520527028,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 42,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [
+        {
+          "x": 1343.6713746501005,
+          "y": 380.3797018811367
+        }
+      ],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "UYoKI_E5N3iW3T0-Ys7lB",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1209.6289332924991,
+            "y": 315.44856898010005
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "PJqUcUoD3HhjhGAx_XwSj",
+          "snappedToEdge": true,
+          "position": {
+            "x": 0.03459721065635229,
+            "y": 0.9334497214735618
+          },
+          "absolutePosition": {
+            "x": 1451.250731928593,
+            "y": 340.68542460670744
+          },
+          "normal": {
+            "x": -0.7071067811865469,
+            "y": 0.7071067811865481
+          }
+        }
+      },
+      "captions": [
+        {
+          "text": "<p>1. Получает как</p><p>аргумент</p>",
+          "relativePosition": 0.512459881247759,
+          "relativeOffset": 0.5,
+          "style": {
+            "tc": "#3A3A3A",
+            "tfs": 20,
+            "tff": "Neue Haas Unica, Segoe UI Emoji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eeJDhfByAIxnlbeXL0sU9",
+      "position": {
+        "x": 1905.497099818818,
+        "y": 212.99999971947875
+      },
+      "size": {
+        "width": 265.55700707927735,
+        "height": 113
+      },
+      "version": 214,
+      "versionNonce": 1032058219,
+      "createdAt": 1771519783556,
+      "updatedAt": 1771524075432,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 44,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>AbstractJob</strong></p><p></p><p>Общая реализация <strong>Job</strong></p>",
+      "seed": 431214283,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "da"
+      }
+    },
+    {
+      "id": "NT7RhuRfEtFFmIIyNdJvY",
+      "position": {
+        "x": 1821.0000002472102,
+        "y": 269.49999971947875
+      },
+      "size": {
+        "width": 84.4970995716078,
+        "height": 0.09967056556456555
+      },
+      "version": 32,
+      "versionNonce": 881496523,
+      "createdAt": 1771519835997,
+      "updatedAt": 1771520334045,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 45,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "PJqUcUoD3HhjhGAx_XwSj",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 1821.0000002472102,
+            "y": 269.5996702850433
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "eeJDhfByAIxnlbeXL0sU9",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 1905.497099818818,
+            "y": 269.49999971947875
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "BchqiZFmt_PdqF8d0O8uF",
+      "position": {
+        "x": 1909.9583224380087,
+        "y": -17.035632847260906
+      },
+      "size": {
+        "width": 255.41484315642765,
+        "height": 118.1961468202743
+      },
+      "version": 491,
+      "versionNonce": 1922255333,
+      "createdAt": 1771519988378,
+      "updatedAt": 1771520022993,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 46,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobExecutionListener</strong></p><p></p><p>Колбэки, вызываемые в течение ЖЦ джобы</p>",
+      "seed": 393553003,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "da"
+      }
+    },
+    {
+      "id": "BJtrFfjAsbO6utmYV3QW9",
+      "position": {
+        "x": 2037.6657440162226,
+        "y": 101.1605139730134
+      },
+      "size": {
+        "width": 0.609859342234131,
+        "height": 111.83948574646536
+      },
+      "version": 237,
+      "versionNonce": 166679781,
+      "createdAt": 1771520030194,
+      "updatedAt": 1771520204407,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 47,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "eeJDhfByAIxnlbeXL0sU9",
+          "snappedToEdge": true,
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2038.2756033584567,
+            "y": 212.99999971947875
+          },
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "end": {
+          "boundToId": "BchqiZFmt_PdqF8d0O8uF",
+          "snappedToEdge": true,
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 2037.6657440162226,
+            "y": 101.1605139730134
+          },
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        }
+      },
+      "captions": [
+        {
+          "text": "<p>Выпускает событие </p><p><em>до</em> и <em>после </em>выполнения</p>",
+          "relativePosition": 0.4106055700452249,
+          "relativeOffset": 0.5,
+          "style": {
+            "tc": "#3A3A3A",
+            "tfs": 20,
+            "tff": "Neue Haas Unica, Segoe UI Emoji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WnbN0R5_6AmwtGnuooe8C",
+      "position": {
+        "x": 2297.827477755906,
+        "y": -32.99999975527624
+      },
+      "size": {
+        "width": 353.2400225167034,
+        "height": 150.99348200022808
+      },
+      "version": 457,
+      "versionNonce": 853699845,
+      "createdAt": 1771520225847,
+      "updatedAt": 1771520308334,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 48,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>CompositeJobExecutionListener</strong></p><p></p><p>Собирает другие <strong>JobExecutionListener</strong> и передаёт им обработку в заданной очерёдности</p>",
+      "seed": 1325963243,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "pYHzHiwsb-7KwVJJedjaM",
+      "position": {
+        "x": 2165.3731655944366,
+        "y": 42.06244056287624
+      },
+      "size": {
+        "width": 132.45431216146926,
+        "height": 0.4343006819615596
+      },
+      "version": 23,
+      "versionNonce": 1254369477,
+      "createdAt": 1771520237294,
+      "updatedAt": 1771520309761,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 50,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "BchqiZFmt_PdqF8d0O8uF",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2165.3731655944366,
+            "y": 42.06244056287624
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "WnbN0R5_6AmwtGnuooe8C",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2297.827477755906,
+            "y": 42.4967412448378
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "dhXh0nuj228V5tSPiM1Xb",
+      "position": {
+        "x": 2329.8827366884457,
+        "y": 156.9357906832897
+      },
+      "size": {
+        "width": 288.80784277030307,
+        "height": 127
+      },
+      "version": 285,
+      "versionNonce": 1516379301,
+      "createdAt": 1771520365039,
+      "updatedAt": 1771522549833,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 51,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>FlowJob</strong></p><p></p><p>Реализация <strong>Job</strong>, которая предполагает нелинейное выполнение джобы</p>",
+      "seed": 477660261,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "viCXZXXNRYJi3q-7BJlr3",
+      "position": {
+        "x": 2171.0541068980956,
+        "y": 220.4357906832897
+      },
+      "size": {
+        "width": 158.82862979035008,
+        "height": 49.064209036189055
+      },
+      "version": 31,
+      "versionNonce": 1638041893,
+      "createdAt": 1771520378938,
+      "updatedAt": 1771520786195,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 52,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "eeJDhfByAIxnlbeXL0sU9",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2171.0541068980956,
+            "y": 269.49999971947875
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "dhXh0nuj228V5tSPiM1Xb",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2329.8827366884457,
+            "y": 220.4357906832897
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "1LGjD4NFjtsO8zTW_wA7k",
+      "position": {
+        "x": 1892.285982282631,
+        "y": 402.87809955022993
+      },
+      "size": {
+        "width": 292.0071268137254,
+        "height": 177.12190076418483
+      },
+      "version": 475,
+      "versionNonce": 1156623045,
+      "createdAt": 1771520390512,
+      "updatedAt": 1771524077669,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 53,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>SimpleJob</strong></p><p></p><p>Стандартная имплементация джобы, серия последовательных шагов. Если шаг фейлится, выполнение обрывается.</p>",
+      "seed": 477660261,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "hZVQ6cottICHqjNfGq3SJ",
+      "position": {
+        "x": 2038.2756033584567,
+        "y": 325.99999971947875
+      },
+      "size": {
+        "width": 0.01394233103701481,
+        "height": 76.87809983075118
+      },
+      "version": 41,
+      "versionNonce": 845308389,
+      "createdAt": 1771520472779,
+      "updatedAt": 1771520489684,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 54,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "eeJDhfByAIxnlbeXL0sU9",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 2038.2756033584567,
+            "y": 325.99999971947875
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "1LGjD4NFjtsO8zTW_wA7k",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2038.2895456894937,
+            "y": 402.87809955022993
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "K3gLxcCb7YNSYk-YBzqJr",
+      "position": {
+        "x": 1145.2527112196462,
+        "y": 315.44856898010005
+      },
+      "size": {
+        "width": 292.964780826803,
+        "height": 171.24644242901502
+      },
+      "version": 306,
+      "versionNonce": 1559528779,
+      "createdAt": 1771520532387,
+      "updatedAt": 1771521361970,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 55,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [
+        {
+          "x": 1228.2855332545828,
+          "y": 445.0206419686016
+        }
+      ],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "UYoKI_E5N3iW3T0-Ys7lB",
+          "position": {
+            "x": 0.32159353335400753,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 1145.2527112196462,
+            "y": 315.44856898010005
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "FxwA8tVg_oYxp9_BmaYuu",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 1438.2174920464493,
+            "y": 486.6898840690058
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      },
+      "captions": [
+        {
+          "text": "<p>3. Выполняет в</p><p>отдельном потоке</p>",
+          "relativePosition": 0.5288006977362353,
+          "relativeOffset": 0.5,
+          "style": {
+            "tc": "#3A3A3A",
+            "tfs": 20,
+            "tff": "Neue Haas Unica, Segoe UI Emoji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dTNRW63pBxiZBF_dGBqr7",
+      "position": {
+        "x": 2291.173409365338,
+        "y": 393.86745048056315
+      },
+      "size": {
+        "width": 320.12995751476683,
+        "height": 121.2160062251719
+      },
+      "version": 429,
+      "versionNonce": 1071124491,
+      "createdAt": 1771520791682,
+      "updatedAt": 1771524080964,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 56,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobRepository</strong></p><p></p><p>Отвечает за сохранение метаданных джоб между выполнениями</p>",
+      "seed": 337918629,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "tihdwtojrY2zL23eq1iTg",
+      "position": {
+        "x": 2184.2931090963566,
+        "y": 454.4754535931491
+      },
+      "size": {
+        "width": 106.8803002689815,
+        "height": 36.96359633917325
+      },
+      "version": 159,
+      "versionNonce": 1562861381,
+      "createdAt": 1771520850032,
+      "updatedAt": 1771521010134,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 57,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1LGjD4NFjtsO8zTW_wA7k",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2184.2931090963566,
+            "y": 491.43904993232235
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "dTNRW63pBxiZBF_dGBqr7",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2291.173409365338,
+            "y": 454.4754535931491
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "4SQO9BV_kyQhDnpmx_Y7U",
+      "position": {
+        "x": 2451.2383881227215,
+        "y": 283.9357906832897
+      },
+      "size": {
+        "width": 23.048269950875692,
+        "height": 109.93165979727343
+      },
+      "version": 190,
+      "versionNonce": 1099514955,
+      "createdAt": 1771520853145,
+      "updatedAt": 1771521011988,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 58,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "dhXh0nuj228V5tSPiM1Xb",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 2474.286658073597,
+            "y": 283.9357906832897
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "dTNRW63pBxiZBF_dGBqr7",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2451.2383881227215,
+            "y": 393.86745048056315
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "45r8JEXvDwV9Zm6H5lJQW",
+      "position": {
+        "x": 2306.221192666242,
+        "y": 559.8097592273426
+      },
+      "size": {
+        "width": 335.33234328939153,
+        "height": 143.93927755356526
+      },
+      "version": 722,
+      "versionNonce": 1433995813,
+      "createdAt": 1771520895296,
+      "updatedAt": 1771524083915,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 60,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>StepHandler</strong></p><p></p><p>Выполняет <strong>Step</strong> от имени <strong>Job</strong>. По сути просто прослойка с некоторой логикой запуска <strong>Step</strong>.</p>",
+      "seed": 147257381,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "MuGPeHiavgPtYs5EPdYtD",
+      "position": {
+        "x": 2173.435540526719,
+        "y": 564.7732333561698
+      },
+      "size": {
+        "width": 132.78565213952334,
+        "height": 67.00616464795542
+      },
+      "version": 39,
+      "versionNonce": 1605877253,
+      "createdAt": 1771521014835,
+      "updatedAt": 1771521014967,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 61,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1LGjD4NFjtsO8zTW_wA7k",
+          "position": {
+            "x": 0.9628174535049496,
+            "y": 0.9140322744248467
+          },
+          "absolutePosition": {
+            "x": 2173.435540526719,
+            "y": 564.7732333561698
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.8005412409243594,
+            "y": 0.5992776665113482
+          }
+        },
+        "end": {
+          "boundToId": "45r8JEXvDwV9Zm6H5lJQW",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2306.221192666242,
+            "y": 631.7793980041253
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "QZeuJyppb0lvyyKJj4K5b",
+      "position": {
+        "x": 2607.9988323485545,
+        "y": 275.85795547005944
+      },
+      "size": {
+        "width": 49.35482617018033,
+        "height": 287.38159978750684
+      },
+      "version": 169,
+      "versionNonce": 1524843851,
+      "createdAt": 1771521017794,
+      "updatedAt": 1771521028437,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 62,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "dhXh0nuj228V5tSPiM1Xb",
+          "position": {
+            "x": 0.9629797203301791,
+            "y": 0.9363949983210216
+          },
+          "absolutePosition": {
+            "x": 2607.9988323485545,
+            "y": 275.85795547005944
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.7071067811865449,
+            "y": 0.70710678118655
+          }
+        },
+        "end": {
+          "boundToId": "45r8JEXvDwV9Zm6H5lJQW",
+          "position": {
+            "x": 0.9378628216499212,
+            "y": 0.023828075897819823
+          },
+          "absolutePosition": {
+            "x": 2620.7169303341107,
+            "y": 563.2395552575663
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.3826834323650878,
+            "y": -0.9238795325112874
+          }
+        }
+      }
+    },
+    {
+      "id": "FRE1Mq0osCHdDkBWE9mW6",
+      "position": {
+        "x": 2699.3655825954365,
+        "y": 677.2347126447082
+      },
+      "size": {
+        "width": 357.99999999999994,
+        "height": 132
+      },
+      "version": 606,
+      "versionNonce": 679378309,
+      "createdAt": 1771521072410,
+      "updatedAt": 1771524090679,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 64,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>Step</strong></p><p></p><p>Представляет собой &quot;шаг&quot; джобы, некоторый Unit of work</p>",
+      "seed": 104663717,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "vdvZ-3KKX-G-jPapJZ9ZW",
+      "position": {
+        "x": 2699.8472024308853,
+        "y": 472.6416981194149
+      },
+      "size": {
+        "width": 357.3141752784136,
+        "height": 164
+      },
+      "version": 489,
+      "versionNonce": 571463339,
+      "createdAt": 1771521132371,
+      "updatedAt": 1771524088106,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 65,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>StepExecution</strong></p><p></p><p>Представляет собой данные о выполнении <strong>Step</strong>. <strong>Step</strong> может выполняться несколько раз и каждый раз это будет новый <em>execution</em>.</p>",
+      "seed": 1997259077,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "INrJWQ3qWij8MlxAWdpXF",
+      "position": {
+        "x": 2878.3655825954365,
+        "y": 636.641698119415
+      },
+      "size": {
+        "width": 0.13870747465534805,
+        "height": 40.593014525293256
+      },
+      "version": 260,
+      "versionNonce": 1038866405,
+      "createdAt": 1771521203890,
+      "updatedAt": 1771521679204,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 66,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "FRE1Mq0osCHdDkBWE9mW6",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2878.3655825954365,
+            "y": 677.2347126447082
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "end": {
+          "boundToId": "vdvZ-3KKX-G-jPapJZ9ZW",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 2878.504290070092,
+            "y": 636.641698119415
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "EoeqJM3jL1dvmp0iEfzV0",
+      "position": {
+        "x": 1095.453670518787,
+        "y": -77.20234762907819
+      },
+      "size": {
+        "width": 229,
+        "height": 40
+      },
+      "version": 195,
+      "versionNonce": 1200615141,
+      "createdAt": 1771521264007,
+      "updatedAt": 1771521294641,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 67,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "text",
+      "schema": 2,
+      "text": "<p>Начало здесь</p>",
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 36,
+        "ta": "s",
+        "tva": "s"
+      }
+    },
+    {
+      "id": "6yOM1wd93czgDHyuDtdNF",
+      "position": {
+        "x": 1209.953670518787,
+        "y": -19.813427140453072
+      },
+      "size": {
+        "width": 0,
+        "height": 40.94658665606716
+      },
+      "version": 164,
+      "versionNonce": 1339500453,
+      "createdAt": 1771521309819,
+      "updatedAt": 1771521319306,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 68,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "position": {
+            "x": 1209.953670518787,
+            "y": -19.813427140453072
+          },
+          "absolutePosition": {
+            "x": 1209.953670518787,
+            "y": -19.813427140453072
+          },
+          "snappedToEdge": false
+        },
+        "end": {
+          "position": {
+            "x": 1209.953670518787,
+            "y": 21.13315951561409
+          },
+          "absolutePosition": {
+            "x": 1209.953670518787,
+            "y": 21.13315951561409
+          },
+          "snappedToEdge": false
+        }
+      }
+    },
+    {
+      "id": "6tQRlXqqcISz1uegbB-GW",
+      "position": {
+        "x": 2699.2798016770894,
+        "y": 846.0721501708026
+      },
+      "size": {
+        "width": 357.99999999999994,
+        "height": 104.43859868150366
+      },
+      "version": 262,
+      "versionNonce": 47565131,
+      "createdAt": 1771521635039,
+      "updatedAt": 1771524094006,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 69,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>AbstractStep</strong></p><p></p><p>Базовая реализация Step</p>",
+      "seed": 104663717,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "da"
+      }
+    },
+    {
+      "id": "qyHtuSinkky2mVyzl8DFd",
+      "position": {
+        "x": 2878.2798016770894,
+        "y": 809.2347126447082
+      },
+      "size": {
+        "width": 0.08578091834715451,
+        "height": 36.83743752609439
+      },
+      "version": 138,
+      "versionNonce": 20443019,
+      "createdAt": 1771521664251,
+      "updatedAt": 1771521679204,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 70,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "6tQRlXqqcISz1uegbB-GW",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2878.2798016770894,
+            "y": 846.0721501708026
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "end": {
+          "boundToId": "FRE1Mq0osCHdDkBWE9mW6",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 2878.3655825954365,
+            "y": 809.2347126447082
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "58gOh_zT_vBGb-rqDVidq",
+      "position": {
+        "x": 2605.351304931881,
+        "y": 502.63364845302476
+      },
+      "size": {
+        "width": 101.25812799253572,
+        "height": 187.10190003730315
+      },
+      "version": 129,
+      "versionNonce": 15678117,
+      "createdAt": 1771521685467,
+      "updatedAt": 1771521720303,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 71,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "FRE1Mq0osCHdDkBWE9mW6",
+          "position": {
+            "x": 0.020234218796033508,
+            "y": 0.09470330186075542
+          },
+          "absolutePosition": {
+            "x": 2706.6094329244165,
+            "y": 689.7355484903279
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -0.7604059656000309,
+            "y": -0.6494480483301837
+          }
+        },
+        "end": {
+          "boundToId": "dTNRW63pBxiZBF_dGBqr7",
+          "position": {
+            "x": 0.9814073572044574,
+            "y": 0.8972923738340018
+          },
+          "absolutePosition": {
+            "x": 2605.351304931881,
+            "y": 502.63364845302476
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.819152044288994,
+            "y": 0.5735764363510429
+          }
+        }
+      }
+    },
+    {
+      "id": "2lWSCWm9F9QStwC2HyjJK",
+      "position": {
+        "x": 1891.54922684747,
+        "y": 712.8238822594744
+      },
+      "size": {
+        "width": 357.99999999999994,
+        "height": 120
+      },
+      "version": 305,
+      "versionNonce": 356418789,
+      "createdAt": 1771521745622,
+      "updatedAt": 1771524096821,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 72,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>TaskletStep</strong></p><p></p><p>Реализация <strong>Step</strong>, которая производит какое-либо действие над <em>item&#39;ом</em> из <em>chunk&#39;а</em></p>",
+      "seed": 104663717,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "#9BD5B6",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "31nrfYFe_ox7q7LG8zRnK",
+      "position": {
+        "x": 2053.4041772749356,
+        "y": 866.4541655165177
+      },
+      "size": {
+        "width": 357.99999999999994,
+        "height": 104.43859868150366
+      },
+      "version": 178,
+      "versionNonce": 77784933,
+      "createdAt": 1771521751911,
+      "updatedAt": 1771522140055,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 73,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobStep</strong></p><p></p><p>Реализация <strong>Step</strong>, задача которой заключается в запуске другой <strong>Job</strong></p>",
+      "seed": 104663717,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "OVkVbCzIByK5go4VqspFl",
+      "position": {
+        "x": 2289.4084479818985,
+        "y": 1001.7932415260614
+      },
+      "size": {
+        "width": 372.3338907856986,
+        "height": 142
+      },
+      "version": 298,
+      "versionNonce": 258185061,
+      "createdAt": 1771521755048,
+      "updatedAt": 1771522355351,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 74,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>PartitionStep</strong></p><p></p><p>Реализация <strong>Step</strong>, которая разбивает нагрузку на партиции между несколькими <em>worker&#39;ами</em>. См. &quot;Партиционирование&quot; в док-ции.</p>",
+      "seed": 104663717,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "lRdoqtiyeNh9x_2Ye5PJa",
+      "position": {
+        "x": 2249.54922684747,
+        "y": 772.8238822594744
+      },
+      "size": {
+        "width": 452.47235543773286,
+        "height": 87.92487431192524
+      },
+      "version": 308,
+      "versionNonce": 244300459,
+      "createdAt": 1771521831966,
+      "updatedAt": 1771521847068,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 75,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "2lWSCWm9F9QStwC2HyjJK",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2249.54922684747,
+            "y": 772.8238822594744
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "6tQRlXqqcISz1uegbB-GW",
+          "position": {
+            "x": 0.00765860505059648,
+            "y": 0.14052856497390231
+          },
+          "absolutePosition": {
+            "x": 2702.021582285203,
+            "y": 860.7487565713997
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -0.9063077870366504,
+            "y": -0.4226182617406988
+          }
+        }
+      }
+    },
+    {
+      "id": "a82m-2HyEJB4_3a9v90Dk",
+      "position": {
+        "x": 2411.4041772749356,
+        "y": 898.2914495115544
+      },
+      "size": {
+        "width": 287.8756244021538,
+        "height": 20.382015345715104
+      },
+      "version": 33,
+      "versionNonce": 436643877,
+      "createdAt": 1771522162313,
+      "updatedAt": 1771522162480,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 76,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "31nrfYFe_ox7q7LG8zRnK",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2411.4041772749356,
+            "y": 918.6734648572696
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "6tQRlXqqcISz1uegbB-GW",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2699.2798016770894,
+            "y": 898.2914495115544
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "TRo0HChZD5OCxRPEWcQ_w",
+      "position": {
+        "x": 2624.412024356256,
+        "y": 935.650349797085
+      },
+      "size": {
+        "width": 77.52385400658295,
+        "height": 66.14289172897634
+      },
+      "version": 65,
+      "versionNonce": 1346392427,
+      "createdAt": 1771522365339,
+      "updatedAt": 1771522366564,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 77,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "OVkVbCzIByK5go4VqspFl",
+          "position": {
+            "x": 0.8997396816804224,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 2624.412024356256,
+            "y": 1001.7932415260614
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "end": {
+          "boundToId": "6tQRlXqqcISz1uegbB-GW",
+          "position": {
+            "x": 0.007419208619412301,
+            "y": 0.8577116196231279
+          },
+          "absolutePosition": {
+            "x": 2701.935878362839,
+            "y": 935.650349797085
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -0.9063077870366493,
+            "y": 0.42261826174070105
+          }
+        }
+      }
+    },
+    {
+      "id": "f6868ya7oLlnO23ejf3RU",
+      "position": {
+        "x": 2911.167314113834,
+        "y": 188.47825398427457
+      },
+      "size": {
+        "width": 288.80784277030307,
+        "height": 127
+      },
+      "version": 358,
+      "versionNonce": 1488083685,
+      "createdAt": 1771522443080,
+      "updatedAt": 1771522492112,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 78,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>FlowStep</strong></p><p></p><p>Реализация <strong>Step</strong>, которая делегирует выполнение во <strong>Flow</strong>.</p>",
+      "seed": 477660261,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "jDUXLIruE7BD2_Z2pOXVe",
+      "position": {
+        "x": 2618.6905794587487,
+        "y": 220.4357906832897
+      },
+      "size": {
+        "width": 292.47673465508524,
+        "height": 31.542463300984878
+      },
+      "version": 62,
+      "versionNonce": 1542633797,
+      "createdAt": 1771522555182,
+      "updatedAt": 1771522557566,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 79,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "dhXh0nuj228V5tSPiM1Xb",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2618.6905794587487,
+            "y": 220.4357906832897
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "f6868ya7oLlnO23ejf3RU",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 2911.167314113834,
+            "y": 251.97825398427457
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "NvuT8m389svVe-MhVtU0j",
+      "position": {
+        "x": 3046.6218182806374,
+        "y": 315.4782539842746
+      },
+      "size": {
+        "width": 71.50307656217547,
+        "height": 535.7702124017427
+      },
+      "version": 528,
+      "versionNonce": 25609285,
+      "createdAt": 1771522563136,
+      "updatedAt": 1771522589227,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 80,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "f6868ya7oLlnO23ejf3RU",
+          "position": {
+            "x": 0.6573006365012919,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3101.000892993319,
+            "y": 315.4782539842746
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "6tQRlXqqcISz1uegbB-GW",
+          "position": {
+            "x": 0.9702290966579552,
+            "y": 0.04956324845951254
+          },
+          "absolutePosition": {
+            "x": 3046.6218182806374,
+            "y": 851.2484663860173
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.5735764363510458,
+            "y": -0.8191520442889919
+          }
+        }
+      }
+    },
+    {
+      "id": "1P552I8AMQLb7zTC2SKTO",
+      "position": {
+        "x": 3316.978223988337,
+        "y": 157
+      },
+      "size": {
+        "width": 256.6288920815341,
+        "height": 120
+      },
+      "version": 140,
+      "versionNonce": 281566853,
+      "createdAt": 1771522623881,
+      "updatedAt": 1771522676732,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 81,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>Flow</strong></p><p></p><p>Некоторый поток выполнения. Состоит из стейтов <strong>State</strong>.</p>",
+      "seed": 1382698635,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "n1pa_CtXAmJ7PbmDXNAq_",
+      "position": {
+        "x": 3636.855812157296,
+        "y": 141.57436648923655
+      },
+      "size": {
+        "width": 277.686919629326,
+        "height": 150.63967439679627
+      },
+      "version": 344,
+      "versionNonce": 1917165061,
+      "createdAt": 1771522836353,
+      "updatedAt": 1771522893680,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 90,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>SimpleFlow</strong></p><p></p><p>Поток, который выбирает ветвь выполнения в зависимости от exit status предыдущего <strong>State</strong></p>",
+      "seed": 203233381,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "MtpeI-uVay6EhddlG9OU9",
+      "position": {
+        "x": 3573.607116069871,
+        "y": 216.89420368763467
+      },
+      "size": {
+        "width": 63.24869608742483,
+        "height": 0.10579631236532805
+      },
+      "version": 24,
+      "versionNonce": 1961816267,
+      "createdAt": 1771522887185,
+      "updatedAt": 1771522905500,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 91,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 14,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "n1pa_CtXAmJ7PbmDXNAq_",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3636.855812157296,
+            "y": 216.89420368763467
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3573.607116069871,
+            "y": 217
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "A01JR9syqsIUCv-PJDXuT",
+      "position": {
+        "x": 3199.975156884137,
+        "y": 217
+      },
+      "size": {
+        "width": 117.0030671042,
+        "height": 34.97825398427457
+      },
+      "version": 98,
+      "versionNonce": 2058323941,
+      "createdAt": 1771522911618,
+      "updatedAt": 1771522918865,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 92,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "f6868ya7oLlnO23ejf3RU",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3199.975156884137,
+            "y": 251.97825398427457
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3316.978223988337,
+            "y": 217
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "QgHng71y3ssIG7Gfk9wNA",
+      "position": {
+        "x": 2617.3305740713413,
+        "y": 130.92862836005128
+      },
+      "size": {
+        "width": 700.4936373357605,
+        "height": 49.40560540973479
+      },
+      "version": 119,
+      "versionNonce": 1123810251,
+      "createdAt": 1771522922568,
+      "updatedAt": 1771522924360,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 93,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "dhXh0nuj228V5tSPiM1Xb",
+          "position": {
+            "x": 0.995290967951694,
+            "y": 0.1807970881870823
+          },
+          "absolutePosition": {
+            "x": 2617.3305740713413,
+            "y": 179.89702088304915
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.9659258262890678,
+            "y": -0.2588190451025224
+          }
+        },
+        "end": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 0.00329654004232599,
+            "y": 0.19445194808155045
+          },
+          "absolutePosition": {
+            "x": 3317.8242114071018,
+            "y": 180.33423376978607
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -0.9659258262890684,
+            "y": -0.25881904510252063
+          }
+        }
+      }
+    },
+    {
+      "id": "BfvPGQxOlLoIKsc7n27VR",
+      "position": {
+        "x": 3270.0133469517164,
+        "y": -136.98319201487382
+      },
+      "size": {
+        "width": 379.45317180163613,
+        "height": 208
+      },
+      "version": 565,
+      "versionNonce": 1721436869,
+      "createdAt": 1771523033526,
+      "updatedAt": 1771523111294,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 94,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>FlowExecution</strong></p><p></p><p>Представляет собой данные о выполнении <strong>Flow</strong>. <strong>Flow</strong> может выполняться несколько раз и каждый раз это будет новый <em>execution</em>.</p><p></p><p><em>(неточные данные)</em></p>",
+      "seed": 2007677541,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "IWoo91_AEo9KeElhpPzYD",
+      "position": {
+        "x": 3445.292670029104,
+        "y": 71.01680798512618
+      },
+      "size": {
+        "width": 14.447262823430265,
+        "height": 85.98319201487382
+      },
+      "version": 190,
+      "versionNonce": 1921887941,
+      "createdAt": 1771523089549,
+      "updatedAt": 1771523108256,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 95,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3445.292670029104,
+            "y": 157
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "end": {
+          "boundToId": "BfvPGQxOlLoIKsc7n27VR",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3459.7399328525344,
+            "y": 71.01680798512618
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "1nphauOHGvSAt2e2ORIP5",
+      "position": {
+        "x": 3204.267632313538,
+        "y": 375.5077529894144
+      },
+      "size": {
+        "width": 249.8125712866431,
+        "height": 135
+      },
+      "version": 466,
+      "versionNonce": 203933765,
+      "createdAt": 1771523148490,
+      "updatedAt": 1771523178470,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 96,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>FlowExecutor</strong></p><p></p><p>Контекст и стратегия выполнения флоу</p>",
+      "seed": 944207531,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "oo_WiU3Nc5lD57P47-L0U",
+      "position": {
+        "x": 3204.267632313538,
+        "y": 578.0077529894138
+      },
+      "size": {
+        "width": 249.8125712866431,
+        "height": 135
+      },
+      "version": 518,
+      "versionNonce": 309641195,
+      "createdAt": 1771523148490,
+      "updatedAt": 1771523222451,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 97,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>JobFlowExecutor</strong></p><p></p><p>Единственная реализация из-коробки</p>",
+      "seed": 944207531,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "Lbj_6SgPmfv2675vQcYNJ",
+      "position": {
+        "x": 3329.1739179568594,
+        "y": 510.5077529894144
+      },
+      "size": {
+        "width": 0,
+        "height": 67.49999999999937
+      },
+      "version": 350,
+      "versionNonce": 21727883,
+      "createdAt": 1771523181406,
+      "updatedAt": 1771523340494,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 98,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1nphauOHGvSAt2e2ORIP5",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3329.1739179568594,
+            "y": 510.5077529894144
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "oo_WiU3Nc5lD57P47-L0U",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3329.1739179568594,
+            "y": 578.0077529894138
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "04lVToXP13liQcKpYKK-n",
+      "position": {
+        "x": 3454.080203600181,
+        "y": 276.7676400202489
+      },
+      "size": {
+        "width": 93.09243718906873,
+        "height": 166.24011296916552
+      },
+      "version": 226,
+      "versionNonce": 1693633323,
+      "createdAt": 1771523233368,
+      "updatedAt": 1771523342785,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 100,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 1,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1nphauOHGvSAt2e2ORIP5",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3454.080203600181,
+            "y": 443.0077529894144
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 0.8934488121871912,
+            "y": 0.9980636668354073
+          },
+          "absolutePosition": {
+            "x": 3546.2630027914984,
+            "y": 276.7676400202489
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.08715574274765653,
+            "y": 0.9961946980917457
+          }
+        }
+      }
+    },
+    {
+      "id": "CJukfAniNgVzCOKqn7A0b",
+      "position": {
+        "x": 3636.9999998667695,
+        "y": 362.7715990914252
+      },
+      "size": {
+        "width": 278,
+        "height": 164
+      },
+      "version": 266,
+      "versionNonce": 67337963,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523424345,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 101,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>State</strong></p><p></p><p>Промежуточное или конечное состояние потока. Определяет, каким образом поток будет вести себя дальше.</p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "do"
+      }
+    },
+    {
+      "id": "mHVVbR_whxkSdEfKCd_Oc",
+      "position": {
+        "x": 3563.549046177491,
+        "y": 269.3230314765456
+      },
+      "size": {
+        "width": 73.45095368927832,
+        "height": 175.44856761487955
+      },
+      "version": 35,
+      "versionNonce": 934977189,
+      "createdAt": 1771523433830,
+      "updatedAt": 1771523435848,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 102,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "1P552I8AMQLb7zTC2SKTO",
+          "position": {
+            "x": 0.9608069465179918,
+            "y": 0.9360252623045469
+          },
+          "absolutePosition": {
+            "x": 3563.549046177491,
+            "y": 269.3230314765456
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.7071067811865461,
+            "y": 0.7071067811865489
+          }
+        },
+        "end": {
+          "boundToId": "CJukfAniNgVzCOKqn7A0b",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3636.9999998667695,
+            "y": 444.7715990914252
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "gF-uK6NyeBCy3xWhF0yF_",
+      "position": {
+        "x": 3636.99999958178,
+        "y": 579.696056743375
+      },
+      "size": {
+        "width": 278,
+        "height": 97.30394325662496
+      },
+      "version": 365,
+      "versionNonce": 327409893,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523727431,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 103,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>AbstractState</strong></p><p></p><p>Базовая реализация <strong>State</strong></p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "da"
+      }
+    },
+    {
+      "id": "31ZvauaA8gWn5Djc4hc3c",
+      "position": {
+        "x": 3775.99999958178,
+        "y": 526.7715990914252
+      },
+      "size": {
+        "width": 2.849897100531962e-7,
+        "height": 52.924457651949865
+      },
+      "version": 4,
+      "versionNonce": 1176856101,
+      "createdAt": 1771523677519,
+      "updatedAt": 1771523700177,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 104,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "da",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "CJukfAniNgVzCOKqn7A0b",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3775.9999998667695,
+            "y": 526.7715990914252
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3775.99999958178,
+            "y": 579.696056743375
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "TiJ5UAiCJQ7Vk4S2JoCln",
+      "position": {
+        "x": 3203.99999908597,
+        "y": 814.9986978564195
+      },
+      "size": {
+        "width": 193.99871859967922,
+        "height": 97.30394325662496
+      },
+      "version": 569,
+      "versionNonce": 1815776587,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523939360,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 105,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>StepState</strong></p><p></p><p>Выполняет <strong>Step</strong></p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "PYF2USPKxvg0fwt8pFMU6",
+      "position": {
+        "x": 3300.9993583858095,
+        "y": 670.0074416366589
+      },
+      "size": {
+        "width": 343.28683607718904,
+        "height": 144.99125621976066
+      },
+      "version": 71,
+      "versionNonce": 1292262789,
+      "createdAt": 1771523753644,
+      "updatedAt": 1771523825557,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 106,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 0.026209334105103555,
+            "y": 0.9281369476990334
+          },
+          "absolutePosition": {
+            "x": 3644.2861944629985,
+            "y": 670.0074416366589
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -0.6343932841636445,
+            "y": 0.7730104533627377
+          }
+        },
+        "end": {
+          "boundToId": "TiJ5UAiCJQ7Vk4S2JoCln",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3300.9993583858095,
+            "y": 814.9986978564195
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "8jWo2IvM5dCPfuToRw9BD",
+      "position": {
+        "x": 3414.999998793315,
+        "y": 778.9986984793748
+      },
+      "size": {
+        "width": 190.00000092239952,
+        "height": 97.30394325662496
+      },
+      "version": 625,
+      "versionNonce": 314913387,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523827318,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 109,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>EndState</strong></p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "XtFML0BD_KCnnDfigveuW",
+      "position": {
+        "x": 3558.291870486836,
+        "y": 677
+      },
+      "size": {
+        "width": 136.75307424657876,
+        "height": 101.99869847937475
+      },
+      "version": 183,
+      "versionNonce": 180927499,
+      "createdAt": 1771523785039,
+      "updatedAt": 1771523832094,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 110,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 0.20879476673250053,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3695.044944733415,
+            "y": 677
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "8jWo2IvM5dCPfuToRw9BD",
+          "position": {
+            "x": 0.7541677420940895,
+            "y": 4.563938469367496e-18
+          },
+          "absolutePosition": {
+            "x": 3558.291870486836,
+            "y": 778.9986984793748
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "HkL6MsyJLJByJJ7nelPY3",
+      "position": {
+        "x": 3544.7189146174014,
+        "y": 901.9986985084086
+      },
+      "size": {
+        "width": 278,
+        "height": 97.30394325662496
+      },
+      "version": 700,
+      "versionNonce": 1106092901,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523822923,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 111,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>FlowState</strong></p><p></p><p>Делигирует другому потоку</p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "TYubHitiDxt-nW3Szrv__",
+      "position": {
+        "x": 3683.7189146174014,
+        "y": 677
+      },
+      "size": {
+        "width": 92.28108496437835,
+        "height": 224.99869850840855
+      },
+      "version": 97,
+      "versionNonce": 558881291,
+      "createdAt": 1771523812013,
+      "updatedAt": 1771523839879,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 112,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 0.5,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3775.99999958178,
+            "y": 677
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "HkL6MsyJLJByJJ7nelPY3",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3683.7189146174014,
+            "y": 901.9986985084086
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "CS1qnj2EVRlWvEdKIsUxw",
+      "position": {
+        "x": 3776.000000964803,
+        "y": 755.9615787307757
+      },
+      "size": {
+        "width": 283.11604587011055,
+        "height": 120
+      },
+      "version": 812,
+      "versionNonce": 1754648331,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523881669,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 113,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>SplitState</strong></p><p></p><p>Разбивает на параллельные потоки</p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "zSy9OsA18ggbHSITo00b-",
+      "position": {
+        "x": 3822.4144766289514,
+        "y": 677
+      },
+      "size": {
+        "width": 95.14354727090677,
+        "height": 78.96157873077573
+      },
+      "version": 100,
+      "versionNonce": 1077416293,
+      "createdAt": 1771523843497,
+      "updatedAt": 1771523924296,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 114,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 0.6669585505293945,
+            "y": 1
+          },
+          "absolutePosition": {
+            "x": 3822.4144766289514,
+            "y": 677
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "end": {
+          "boundToId": "CS1qnj2EVRlWvEdKIsUxw",
+          "position": {
+            "x": 0.5,
+            "y": 0
+          },
+          "absolutePosition": {
+            "x": 3917.558023899858,
+            "y": 755.9615787307757
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0,
+            "y": -1
+          }
+        }
+      }
+    },
+    {
+      "id": "5QzZwPq5m3W4OE_ZuHC9L",
+      "position": {
+        "x": 4033.6833793880814,
+        "y": 616.9986985575696
+      },
+      "size": {
+        "width": 196.12657659388964,
+        "height": 120
+      },
+      "version": 948,
+      "versionNonce": 910108837,
+      "createdAt": 1771523358997,
+      "updatedAt": 1771523913626,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 115,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "link": "",
+      "isDTO": true,
+      "type": "shape",
+      "shape": "2",
+      "schema": 2,
+      "text": "<p><strong>DecisionState</strong></p>",
+      "seed": 819138821,
+      "roughness": 0,
+      "style": {
+        "tc": "#3A3A3A",
+        "tff": "Neue Haas Unica, Segoe UI Emoji",
+        "tfs": 20,
+        "ta": "m",
+        "tva": "m",
+        "fc": "transparent",
+        "fs": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "ss": "s"
+      }
+    },
+    {
+      "id": "1JuuqU4hM2fudH_OffanX",
+      "position": {
+        "x": 3914.99999958178,
+        "y": 628.3480283716875
+      },
+      "size": {
+        "width": 118.68337980630167,
+        "height": 48.65067018588206
+      },
+      "version": 143,
+      "versionNonce": 1960170725,
+      "createdAt": 1771523891189,
+      "updatedAt": 1771523921947,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 116,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 14,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "gF-uK6NyeBCy3xWhF0yF_",
+          "position": {
+            "x": 1,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3914.99999958178,
+            "y": 628.3480283716875
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "5QzZwPq5m3W4OE_ZuHC9L",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 4033.6833793880814,
+            "y": 676.9986985575696
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "VHujj8ckeNryszJZUr32n",
+      "position": {
+        "x": 3054.0145564707254,
+        "y": 790.6230854462756
+      },
+      "size": {
+        "width": 149.98544261524466,
+        "height": 73.02758403845644
+      },
+      "version": 38,
+      "versionNonce": 1204533035,
+      "createdAt": 1771523944410,
+      "updatedAt": 1771523948290,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 117,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 1,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "TiJ5UAiCJQ7Vk4S2JoCln",
+          "position": {
+            "x": 0,
+            "y": 0.5
+          },
+          "absolutePosition": {
+            "x": 3203.99999908597,
+            "y": 863.650669484732
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": -1,
+            "y": 0
+          }
+        },
+        "end": {
+          "boundToId": "FRE1Mq0osCHdDkBWE9mW6",
+          "position": {
+            "x": 0.9906395918304156,
+            "y": 0.8590028242542982
+          },
+          "absolutePosition": {
+            "x": 3054.0145564707254,
+            "y": 790.6230854462756
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.9238795325112886,
+            "y": 0.3826834323650854
+          }
+        }
+      }
+    },
+    {
+      "id": "KT8n1BtWBqQs_UGWvhREN",
+      "position": {
+        "x": 1813.0533257556053,
+        "y": 140.44594506501963
+      },
+      "size": {
+        "width": 60.96789806719971,
+        "height": 293.7166675719269
+      },
+      "version": 138,
+      "versionNonce": 1191642187,
+      "createdAt": 1771523971847,
+      "updatedAt": 1771524014113,
+      "createdBy": "8b05ba7a-cf2e-469a-a8cd-e54cbde901b2",
+      "alpha": 100,
+      "zIndex": 118,
+      "rotation": 0,
+      "groupIds": [],
+      "isLocked": false,
+      "isDeleted": false,
+      "isDTO": true,
+      "type": "line",
+      "schema": 2,
+      "points": [],
+      "style": {
+        "ss": "s",
+        "sc": "#3A3A3A",
+        "sw": 2,
+        "fc": "transparent",
+        "fs": "s",
+        "lst": 0,
+        "let": 0,
+        "lt": "c",
+        "lsc": 1
+      },
+      "tipPoints": {
+        "start": {
+          "boundToId": "FxwA8tVg_oYxp9_BmaYuu",
+          "position": {
+            "x": 0.984171207098344,
+            "y": 0.10570453427054005
+          },
+          "absolutePosition": {
+            "x": 1814.9410150522156,
+            "y": 434.1626126369465
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.7604059656000286,
+            "y": -0.6494480483301863
+          }
+        },
+        "end": {
+          "boundToId": "vKlgiIUCVswzh0XHmG2bR",
+          "position": {
+            "x": 0.9789508937383863,
+            "y": 0.9119942932977648
+          },
+          "absolutePosition": {
+            "x": 1813.0533257556053,
+            "y": 140.44594506501963
+          },
+          "snappedToEdge": true,
+          "normal": {
+            "x": 0.7604059656000286,
+            "y": 0.6494480483301863
+          }
+        }
+      }
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFFFFF"
+  },
+  "files": {}
+}
